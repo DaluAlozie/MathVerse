@@ -93,4 +93,3 @@ MathVerse/
 ├── createDatabase.py  # Database initialisation
 ├── Users.db           # SQLite database
 └── README.md
-e
